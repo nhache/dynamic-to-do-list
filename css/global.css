@@ -1,0 +1,30 @@
+.side-border{
+	border-left: 5px solid #eee;
+	padding-left: 10px;
+}
+
+#dynamic-table{
+	margin-top: 40px;
+}
+
+.center{
+	text-align: center;
+} 
+
+.empty-star{
+	color: #eee;
+}
+
+.fill-star{
+	color: #ffd700;
+}
+
+
+
+.panel-heading{
+	text-align: center;
+}
+
+#input-form button{
+	width: 100%;
+}
